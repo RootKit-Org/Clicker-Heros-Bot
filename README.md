@@ -16,6 +16,4 @@ pip install mss
 `
 
 # Running
-Please let us know in #ally-chat in discord if you need help running it.
-
-We will help you ASAP!
+`python main.py`
